@@ -1,0 +1,14 @@
+# Per repo profile
+.profile.ps1
+
+#
+.git
+.vscode
+launch.json
+
+#
+launch.json
+
+# My ignores
+.gitignore
+
